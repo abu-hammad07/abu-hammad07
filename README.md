@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ABu Hammad</h1>
+<h1 align="center">Hi 👋, I'm Abu Hammad</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-hammad07&label=Profile%20views&color=0e75b6&style=flat" alt="abu-hammad07" /> </p>
