@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **PHP, React,**
 
-- 👨‍💻 All of my projects are available at [https://abu-hammad07.github.io/My-portfolio/](https://abu-hammad07.github.io/My-portfolio/)
+- 👨‍💻 All of my projects are available at [https://hammadkamal/](https://hammadkaml.com)
 
 - 📫 How to reach me **hammadking427@gmail.com**
 
-- 📄 Know about my experiences [https://abu-hammad07.github.io/Abu_Hammad_Resume/](https://abu-hammad07.github.io/Abu_Hammad_Resume/)
+- 📄 Know about my experiences [https://hammadkamal/](https://hammadkamal/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
