@@ -15,11 +15,11 @@
 <p align="center">
     Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
 <a href="https://www.linkedin.com/in/abu-hammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-hammad" height="40" width="50" /></a>
-<a href="https://leetcode.com/abu-hammad07/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
-<a href="mailto:abu.hammad07@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="50" /></a>
+<!-- <a href="https://leetcode.com/abu-hammad07/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
+<a href="mailto:abu.hammad07@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="50" /></a> -->
 </p>
 
-<h4 align="center"> 📩 Get in touch: <a href="mailto:abu.hammad07@gmail.com">abu.hammad07@gmail.com</a> </h4>
+<h4 align="center"> 📩 Get in touch: <a href="mailto:hammadkamal2003@gmail.com">hammadkamal2003.com</a> </h4>
 
 <!--view count-->
 <p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=abu-hammad07&&style=for-the-badge" /> </p>
