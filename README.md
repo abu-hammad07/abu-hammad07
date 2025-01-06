@@ -19,7 +19,7 @@
 <a href="mailto:abu.hammad07@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="50" /></a> -->
 </p>
 
-<h4 align="center"> 📩 Get in touch: <a href="hammadkamal@gmail.com">hammadkamal.com</a> </h4>
+<h4 align="center"> 📩 Get in touch: <a href="https://hammadkamal.com">hammadkamal.com</a> </h4>
 
 <!--view count-->
 <p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=abu-hammad07&&style=for-the-badge" /> </p>
